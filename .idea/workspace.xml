@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffef1c52-52c7-4233-b60f-47c7c5f6c755" name="Changes" comment="Our Team 1 github project.">
-      <change afterPath="$PROJECT_DIR$/src/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ffef1c52-52c7-4233-b60f-47c7c5f6c755" name="Changes" comment="Adding in file.txt for practice, comments, and reading in the file capabilities. Roughly 45 minutes of work." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +31,7 @@
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Is405 - Project 1" />
-      <option name="PROGRAM_PARAMETERS" value="C:\Users\whyri\IdeaProjects\is405Project1\src\file.txt" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\whyri\IdeaProjects\is405Project1\src\file.txt 3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -51,7 +47,7 @@
       <updated>1661978045738</updated>
       <workItem from="1661978049724" duration="1171000" />
       <workItem from="1662165403249" duration="1742000" />
-      <workItem from="1662167268388" duration="841000" />
+      <workItem from="1662167268388" duration="1082000" />
     </task>
     <task id="LOCAL-00001" summary="Our Team 1 github project.">
       <created>1661978239874</created>
@@ -60,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661978239874</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding in file.txt for practice, comments, and reading in the file capabilities. Roughly 45 minutes of work.">
+      <created>1662168183335</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662168183335</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Our Team 1 github project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Our Team 1 github project." />
+    <MESSAGE value="Adding in file.txt for practice, comments, and reading in the file capabilities. Roughly 45 minutes of work." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding in file.txt for practice, comments, and reading in the file capabilities. Roughly 45 minutes of work." />
   </component>
 </project>
